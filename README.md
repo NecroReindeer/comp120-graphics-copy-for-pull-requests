@@ -1,10 +1,14 @@
-# See main repository at link below
-<<<<<<< HEAD
-https://github.com/NecroReindeer/comp120-tinkering-graphics
-=======
-I started work on the project and uploading files to GitHub before the repository in Falmouth-Games-Academy was created. It can be found here -  
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+# See main repository at link below!
+#https://github.com/NecroReindeer/comp120-tinkering-graphics
+
+I started work on the project and uploading files to GitHub before the repository in Falmouth-Games-Academy was created. This repository and all of my commits on this project can be found at the supplied link -  
 https://github.com/NecroReindeer/comp120-tinkering-graphics
 
+# See main repository at link above!
+
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ##COMP120 Tinkering Graphics Project
