@@ -1,3 +1,19 @@
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+# See main repository at link below!
+#https://github.com/NecroReindeer/comp120-tinkering-graphics
+
+I started work on the project and uploading files to GitHub before the repository in Falmouth-Games-Academy was created. This repository and all of my commits on this project can be found at the supplied link -  
+https://github.com/NecroReindeer/comp120-tinkering-graphics
+
+# See main repository at link above!
+
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+#Content of README.md of original repository below:
+#------------------------------------------------------------------
+
+
 #COMP120 Tinkering Graphics Project
 
 This program can apply four different effects to images. Each effect can be altered by adjusting parameters.
