@@ -10,25 +10,22 @@ https://github.com/NecroReindeer/comp120-tinkering-graphics
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+#Content of README.md of original repository below:
+#------------------------------------------------------------------
 
-##COMP120 Tinkering Graphics Project
-Source code contained within exhibit.py.
-I have not used JES, instead I have used normal Python and [Pillow](https://python-pillow.github.io/).
+#COMP120 Tinkering Graphics Project
 
-Tile effect currently takes a very long time, and is currently the first effect to run. It takes about a minute before any pictures appear.
+Please see README.md in the Appropriation Art Exhibit folder for documentation relating to the application.
 
-###Additional Libraries Used:
+**Please note:**  
+The repository for this assignment isn't forked from the Falmouth-Games-Academy one because I has made a lot of progress on this project in my own repository before the Falmouth-Games-Academy one was created.
+Had to delete the forked one for pull requests that I was copying code from this into as its been causing me loads of problems/confusion... (Ignore the recent commit titled 'test', that arose from those problems...)
 
-Pillow -https://python-pillow.github.io/
+## Trello Board
 
-###Source Images Used:
+### Tinkering Graphics Sprint
+The tasks in the backlog were extra features not required for the assignment that I was only going to add if I had spare time.
+![Trello Board](https://github.com/NecroReindeer/comp120-tinkering-graphics/blob/master/Trello%20Board/Tinkering%20Graphics%20Trello%20Board.png)
 
-**jegermeister.jpg** TrollfesT JegerMeister T-shirt design (I can't find the image online anymore)
-
-**sad.jpg** Image made by me
-
-**hug.png** Image made by me
-
-**alf.png** Image made by me
-
->>>>>>> origin/master
+###Tasks Example
+![Tasks](https://github.com/NecroReindeer/comp120-tinkering-graphics/blob/master/Trello%20Board/Tasks%20example.png)
